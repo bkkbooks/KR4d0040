@@ -1488,6 +1488,7 @@ markers:
   - {type: variant, offset: 3926, length: 2, content: 王逵, WYG: 儀鸞失火}
   - {type: punctuation, offset: 3930, content: (, id: KR4d0040_krp_024-bkkpn1}
   - {type: variant, offset: 3930, length: 0, content: '', WYG: 嘉祐七年八月}
+  - {type: voice, offset: 3930, length: 14, name: note, id: n1}
   - {type: variant, offset: 3932, length: 3, content: 月十八, WYG: ''}
   - {type: punctuation, offset: 3937, content: /, id: KR4d0040_krp_024-bkkpn2}
   - {type: variant, offset: 3937, length: 59, content: 逵改除西京留臺臣先曽上言新差知萊州王逵暴戾凶狡殘害民物乞檢㑹逵年紀及平生事迹勒令致仕或只與監當差遣至今未聞朝廷追改前命, WYG: ''}
@@ -1640,6 +1641,7 @@ markers:
   - {type: substitution, offset: 4386, original: 缾, replacement: 瓶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17203}}
   - {type: substitution, offset: 4389, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 4390, content: (, id: KR4d0040_krp_024-bkkpn4}
+  - {type: voice, offset: 4390, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4391, content: /, id: KR4d0040_krp_024-bkkpn5}
   - {type: punctuation, offset: 4392, content: ), id: KR4d0040_krp_024-bkkpn6}
   - {type: 'kr:newline', offset: 4399, content: '
@@ -1811,4 +1813,4 @@ markers:
 
       ', id: KR4d0040_krp_024-bkkkrnewl302}
   back: []
-hash: sha256:7663803737e617bc124a0b109c6b008982850a15ad9ee27ae2be29e7a2ae8c73
+hash: sha256:caf2a447f1293672aaedcc7f3aaef661621cf600c1d7a3a14962417ace4faf6e

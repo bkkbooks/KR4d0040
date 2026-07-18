@@ -1062,6 +1062,7 @@ markers:
   - {type: variant, offset: 3372, length: 1, content: 蒙, SBCK: 􅂪}
   - {type: substitution, offset: 3374, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: punctuation, offset: 3386, content: (, id: KR4d0040_krp_066-bkkpn1}
+  - {type: voice, offset: 3386, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 3387, content: /, id: KR4d0040_krp_066-bkkpn2}
   - {type: punctuation, offset: 3389, content: ), id: KR4d0040_krp_066-bkkpn3}
   - {type: 'kr:newline', offset: 3392, content: '
@@ -1240,6 +1241,7 @@ markers:
   - {type: substitution, offset: 3947, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: variant, offset: 3949, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 3959, content: (, id: KR4d0040_krp_066-bkkpn4}
+  - {type: voice, offset: 3959, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3960, content: /, id: KR4d0040_krp_066-bkkpn5}
   - {type: punctuation, offset: 3961, content: ), id: KR4d0040_krp_066-bkkpn6}
   - {type: 'kr:newline', offset: 3965, content: '
@@ -1351,6 +1353,7 @@ markers:
   - {type: variant, offset: 4354, length: 1, content: 眀, WYG: 明}
   - {type: punctuation, offset: 4358, content: (, id: KR4d0040_krp_066-bkkpn7}
   - {type: variant, offset: 4358, length: 2, content: 御名, WYG: 構}
+  - {type: voice, offset: 4358, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4359, content: /, id: KR4d0040_krp_066-bkkpn8}
   - {type: punctuation, offset: 4360, content: ), id: KR4d0040_krp_066-bkkpn9}
   - {type: variant, offset: 4361, length: 1, content: 于, WYG: 於}
@@ -1623,4 +1626,4 @@ markers:
   - {type: page-break, offset: 5125, content: '', id: KR4d0040_WYG_071-17b, image: WYG1094/WYG1094-0654b.png}
   - {type: page-break, offset: 5125, content: '', id: KR4d0040_WYG_072-1a, image: WYG1094/WYG1094-0655a.png}
   back: []
-hash: sha256:e810c1495db18cbb8e3f98b3e6c00f56558467cc9b002f005dc71e74d9e19c5a
+hash: sha256:ed2dccefdbfcfa338e6377501620d5679cda8a6d514557a33f2c4924ee1c427f

@@ -25,6 +25,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KR4d0040_SBCK_027-1a04}
   - {type: indent, offset: 10, content: 　　　, id: KR4d0040_krp_027-bkkind3}
   - {type: punctuation, offset: 15, content: (, id: KR4d0040_krp_027-bkkpn1}
+  - {type: voice, offset: 15, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 21, content: /, id: KR4d0040_krp_027-bkkpn2}
   - {type: substitution, offset: 23, original: 献, replacement: 獻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17562}}
   - {type: punctuation, offset: 27, content: ), id: KR4d0040_krp_027-bkkpn3}
@@ -51,6 +52,7 @@ markers:
   - {type: line-break, offset: 41, content: '', id: KR4d0040_SBCK_027-1a08}
   - {type: indent, offset: 41, content: 　　　, id: KR4d0040_krp_027-bkkind7}
   - {type: punctuation, offset: 45, content: (, id: KR4d0040_krp_027-bkkpn4}
+  - {type: voice, offset: 45, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 53, content: /, id: KR4d0040_krp_027-bkkpn5}
   - {type: substitution, offset: 53, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 61, content: ), id: KR4d0040_krp_027-bkkpn6}
@@ -286,6 +288,7 @@ markers:
   - {type: page-break, offset: 736, content: '', id: KR4d0040_WYG_029-4b, image: WYG1094/WYG1094-0283d.png}
   - {type: punctuation, offset: 741, content: (, id: KR4d0040_krp_027-bkkpn7}
   - {type: variant, offset: 741, length: 0, content: '', WYG: 嘉祐八年}
+  - {type: voice, offset: 741, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 747, content: /, id: KR4d0040_krp_027-bkkpn8}
   - {type: variant, offset: 747, length: 6, content: 與吕獻可連名, WYG: ''}
   - {type: punctuation, offset: 753, content: ), id: KR4d0040_krp_027-bkkpn9}
@@ -926,6 +929,7 @@ markers:
   - {type: indent, offset: 2573, content: 　　　　, id: KR4d0040_krp_027-bkkind17}
   - {type: punctuation, offset: 2577, content: (, id: KR4d0040_krp_027-bkkpn10}
   - {type: variant, offset: 2577, length: 0, content: '', WYG: 嘉祐八年}
+  - {type: voice, offset: 2577, length: 16, name: note, id: n4}
   - {type: variant, offset: 2578, length: 0, content: '', WYG: 一}
   - {type: punctuation, offset: 2585, content: /, id: KR4d0040_krp_027-bkkpn11}
   - {type: variant, offset: 2585, length: 6, content: 旨十二月二日, WYG: 㫖使}
@@ -1637,4 +1641,4 @@ markers:
 
       ', id: KR4d0040_krp_027-bkkkrnewl280}
   back: []
-hash: sha256:710ee5145a88bc348b79fc0a2092411eedfe86f4e9b913dfe8ffc69a2b9130f2
+hash: sha256:5689a1eeaeec31b06557bf03c264ff2a257719b5cf9d2657c4b4f1b2dd8faa3c

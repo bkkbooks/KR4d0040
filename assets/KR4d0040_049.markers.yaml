@@ -1169,6 +1169,7 @@ markers:
   - {type: indent, offset: 3518, content: 　　　, id: KR4d0040_krp_049-bkkind26}
   - {type: punctuation, offset: 3529, content: (, id: KR4d0040_krp_049-bkkpn1}
   - {type: variant, offset: 3529, length: 0, content: '', WYG: 元祐元年正月}
+  - {type: voice, offset: 3529, length: 9, name: note, id: n1}
   - {type: variant, offset: 3533, length: 0, content: '', WYG: 上}
   - {type: punctuation, offset: 3534, content: /, id: KR4d0040_krp_049-bkkpn2}
   - {type: variant, offset: 3535, length: 1, content: 旨, WYG: 㫖}
@@ -1732,4 +1733,4 @@ markers:
   - {type: page-break, offset: 5000, content: '', id: KR4d0040_WYG_050-7b, image: WYG1094/WYG1094-0468d.png}
   - {type: page-break, offset: 5000, content: '', id: KR4d0040_WYG_050-8a, image: WYG1094/WYG1094-0469a.png}
   back: []
-hash: sha256:03fa2182376bab4e17ff955e6c02b6227a755d65397dbef3552c97e2b350c91d
+hash: sha256:473b6019990c6aef32a6f298c3942d66448500996b4721b6f490d86200a5c764

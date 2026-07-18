@@ -4,9 +4,11 @@ markers:
   front:
   - {type: line-break, offset: 0, content: '', id: KR4d0040_WYG_060-front01}
   - {type: punctuation, offset: 3, content: (, id: KR4d0040_WYG_060-bkkpn1}
+  - {type: voice, offset: 3, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 5, content: /, id: KR4d0040_WYG_060-bkkpn2}
   - {type: punctuation, offset: 5, content: ), id: KR4d0040_WYG_060-bkkpn3}
   - {type: punctuation, offset: 6, content: (, id: KR4d0040_WYG_060-bkkpn4}
+  - {type: voice, offset: 6, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 14, content: /, id: KR4d0040_WYG_060-bkkpn5}
   - {type: punctuation, offset: 22, content: ), id: KR4d0040_WYG_060-bkkpn6}
   - {type: 'kr:newline', offset: 22, content: '
@@ -346,6 +348,7 @@ markers:
   - {type: indent, offset: 990, content: 　　　, id: KR4d0040_WYG_060-bkkind3}
   - {type: line-break, offset: 995, content: '', id: KR4d0040_WYG_060-5a02}
   - {type: punctuation, offset: 995, content: (, id: KR4d0040_WYG_060-bkkpn1}
+  - {type: voice, offset: 995, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 1000, content: /, id: KR4d0040_WYG_060-bkkpn2}
   - {type: punctuation, offset: 1005, content: ), id: KR4d0040_WYG_060-bkkpn3}
   - {type: 'kr:newline', offset: 1005, content: '
@@ -1241,6 +1244,7 @@ markers:
   - {type: line-break, offset: 4377, content: '', id: KR4d0040_WYG_060-15a06}
   - {type: line-break, offset: 4379, content: '', id: KR4d0040_WYG_060-15a07}
   - {type: punctuation, offset: 4380, content: (, id: KR4d0040_WYG_060-bkkpn4}
+  - {type: voice, offset: 4380, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 4385, content: /, id: KR4d0040_WYG_060-bkkpn5}
   - {type: punctuation, offset: 4389, content: ), id: KR4d0040_WYG_060-bkkpn6}
   - {type: 'kr:newline', offset: 4389, content: '
@@ -2046,4 +2050,4 @@ markers:
 
       ', id: KR4d0040_WYG_060-bkkkrnewl418}
   back: []
-hash: sha256:776883821de6fbd3738a0b0da267f07d211b8b5d8a53c425ebf2a3eb1bc0edd5
+hash: sha256:9d0f3c80199ddaa6e1b7b56ec3f32a3094839994d767e74b938993dec02bf7ce

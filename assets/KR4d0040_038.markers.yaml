@@ -914,6 +914,7 @@ markers:
   - {type: page-break, offset: 2374, content: '', id: KR4d0040_WYG_041-9a, image: WYG1094/WYG1094-0382a.png}
   - {type: punctuation, offset: 2383, content: (, id: KR4d0040_krp_038-bkkpn1}
   - {type: variant, offset: 2383, length: 4, content: 淵聖御名, WYG: 桓}
+  - {type: voice, offset: 2383, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2385, content: /, id: KR4d0040_krp_038-bkkpn2}
   - {type: punctuation, offset: 2387, content: ), id: KR4d0040_krp_038-bkkpn3}
   - {type: 'kr:newline', offset: 2387, content: '
@@ -1939,4 +1940,4 @@ markers:
 
       ', id: KR4d0040_krp_038-bkkkrnewl319}
   back: []
-hash: sha256:5c54234f283fe20fb8b1732e94294213707efcc3ff580e908e6ed398d888f1e4
+hash: sha256:61cc3a153b2b496cd6b33e044a7535484e940902691b7301992c5e3a87aaf7c9

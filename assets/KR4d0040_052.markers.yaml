@@ -1014,6 +1014,7 @@ markers:
   - {type: indent, offset: 3229, content: 　　　　, id: KR4d0040_krp_052-bkkind12}
   - {type: variant, offset: 3229, length: 0, content: '', WYG: 撫納西人}
   - {type: punctuation, offset: 3231, content: (, id: KR4d0040_krp_052-bkkpn1}
+  - {type: voice, offset: 3231, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 3238, content: ), id: KR4d0040_krp_052-bkkpn2}
   - {type: 'kr:newline', offset: 3238, content: '
 
@@ -1145,6 +1146,7 @@ markers:
   - {type: variant, offset: 3565, length: 240, content: 乞先行經明行修科劄子元祐元年上臣先上言乞毎歳委陞朝文官保舉一人應經明行修科與進士並置程試一如進士惟扵及第後推恩優異以勸勉天下舉人使敦修士行昨巳有朝旨來年科塲且依舊法施行竊聞近有聖旨其進士經義並兼用注䟽及諸家之說或己見仍罷律義先次施行臣竊詳朝廷之意盖爲舉人經義文體專習王氏新學爲日巳乆來年科塲欲兼取舊學故有此指揮令舉人豫知而習之臣所乞置經明行修科者欲使舉人知向去科塲朝廷敦尚行義不專取文學所以美教化厚風俗比於經義文體尤爲要切冝使舉人豫知欲乞亦降朝旨先次施行况與進士舊法兩不相妨取進止, WYG: ''}
   - {type: variant, offset: 3568, length: 1, content: 經, SBCK: 􅀴}
   - {type: punctuation, offset: 3575, content: (, id: KR4d0040_krp_052-bkkpn3}
+  - {type: voice, offset: 3575, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 3580, content: ), id: KR4d0040_krp_052-bkkpn4}
   - {type: 'kr:newline', offset: 3580, content: '
 
@@ -1652,4 +1654,4 @@ markers:
   - {type: page-break, offset: 5026, content: '', id: KR4d0040_WYG_053-4b, image: WYG1094/WYG1094-0485b.png}
   - {type: page-break, offset: 5026, content: '', id: KR4d0040_WYG_053-5a, image: WYG1094/WYG1094-0485c.png}
   back: []
-hash: sha256:59051955c3808e80cfb9b216e57e7da1ca9435ed22676fee8cdf923d6bb035ff
+hash: sha256:217a776abd9c736f12c2006a4084dcb3b25b2b78c4e8f8ea6d098c8f889dbb8d

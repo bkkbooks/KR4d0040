@@ -84,6 +84,7 @@ markers:
   - {type: line-break, offset: 81, content: '', id: KR4d0040_SBCK_048-1b02}
   - {type: indent, offset: 81, content: 　　　　, id: KR4d0040_krp_048-bkkind13}
   - {type: punctuation, offset: 90, content: (, id: KR4d0040_krp_048-bkkpn1}
+  - {type: voice, offset: 90, length: 13, name: note, id: n1}
   - {type: variant, offset: 96, length: 7, content: 十八日進呈依奏, WYG: ''}
   - {type: punctuation, offset: 97, content: /, id: KR4d0040_krp_048-bkkpn2}
   - {type: punctuation, offset: 103, content: ), id: KR4d0040_krp_048-bkkpn3}
@@ -132,6 +133,7 @@ markers:
   - {type: variant, offset: 211, length: 0, content: '', WYG: 此}
   - {type: punctuation, offset: 218, content: (, id: KR4d0040_krp_048-bkkpn4}
   - {type: variant, offset: 218, length: 4, content: 淵聖御名, WYG: 桓}
+  - {type: voice, offset: 218, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 220, content: /, id: KR4d0040_krp_048-bkkpn5}
   - {type: punctuation, offset: 222, content: ), id: KR4d0040_krp_048-bkkpn6}
   - {type: 'kr:newline', offset: 226, content: '
@@ -814,6 +816,7 @@ markers:
   - {type: variant, offset: 2169, length: 7, content: 宻院劄子時宻院, WYG: 乞罷免役錢狀元豐八年上右臣竊以百姓出力以供在上之役盖自古及今未之或改熈寧中執政者以為百姓惟苦差役破産不憚増稅乃請據家貲高下各令出錢雇人充役按因差役破産者惟鄉戸衙前有之自餘散從承符弓手手力耆戸長壯丁未}
   - {type: substitution, offset: 2169, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: punctuation, offset: 2173, content: (, id: KR4d0040_krp_048-bkkpn7}
+  - {type: voice, offset: 2173, length: 20, name: note, id: n3}
   - {type: substitution, offset: 2174, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: variant, offset: 2177, length: 2, content: 余𣣔, WYG: 破産者也其鄉戸衙前所以破産者盖由山野愚戇之人不能幹事使之主管官物或因水火損敗或為}
   - {type: page-break, offset: 2177, content: '', id: KR4d0040_WYG_047-13b, image: WYG1094/WYG1094-0447d.png}
@@ -1867,4 +1870,4 @@ markers:
   - {type: variant, offset: 5010, length: 0, content: '', WYG: 年十二月上臣准閣門吿示以臣累上章辭免新命已降批荅不許所有吿身可吿示早令祗受者臣竊惟無功受賞士之所難䆒觀英宗皇帝神宗皇帝即政之初襃賞大臣皆以定策受遺之功非因祔廟禮畢臣既非定策又不受遺實難虚受至於政事日新皆陛下聖明衆賢協力在臣一人何能禆益而無名冒賞惟恐有玷清朝所有吿身臣不敢祗受伏乞早賜寢罷取進止請}
   - {type: page-break, offset: 5010, content: '', id: KR4d0040_WYG_049-5b, image: WYG1094/WYG1094-0459d.png}
   back: []
-hash: sha256:498d51687b2973b566ea37e220f87003873f2a93877d7db9bd895b318c8bacba
+hash: sha256:e3a58242c2850b34a22604375a1df345f181c47344814a20360b80dada6da564

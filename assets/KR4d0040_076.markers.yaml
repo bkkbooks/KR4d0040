@@ -729,6 +729,7 @@ markers:
   - {type: page-break, offset: 2133, content: '', id: KR4d0040_WYG_076-7b, image: WYG1094/WYG1094-0691b.png}
   - {type: punctuation, offset: 2136, content: (, id: KR4d0040_krp_076-bkkpn1}
   - {type: variant, offset: 2136, length: 2, content: 御名, WYG: 慎}
+  - {type: voice, offset: 2136, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2137, content: /, id: KR4d0040_krp_076-bkkpn2}
   - {type: punctuation, offset: 2138, content: ), id: KR4d0040_krp_076-bkkpn3}
   - {type: 'kr:newline', offset: 2138, content: '
@@ -1855,4 +1856,4 @@ markers:
 
       ', id: KR4d0040_krp_076-bkkkrnewl318}
   back: []
-hash: sha256:4b1a9dbadff4ae8785f0ec5e4f13a1fc8bc90d3f989d6e7e2fdabab756137117
+hash: sha256:a56ba7af08d8b1a631d7ae8fdd7c995fd9a388414abd9c8d663ac6b15e92371c

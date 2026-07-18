@@ -1413,6 +1413,7 @@ markers:
   - {type: variant, offset: 4205, length: 1, content: 徒, WYG: ''}
   - {type: punctuation, offset: 4207, content: (, id: KR4d0040_krp_077-bkkpn1}
   - {type: variant, offset: 4207, length: 4, content: 太上御名, WYG: 間搆}
+  - {type: voice, offset: 4207, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 4209, content: /, id: KR4d0040_krp_077-bkkpn2}
   - {type: punctuation, offset: 4211, content: ), id: KR4d0040_krp_077-bkkpn3}
   - {type: 'kr:newline', offset: 4213, content: '
@@ -1960,4 +1961,4 @@ markers:
   - {type: page-break, offset: 5470, content: '', id: KR4d0040_WYG_079-5b, image: WYG1094/WYG1094-0724b.png}
   - {type: page-break, offset: 5470, content: '', id: KR4d0040_WYG_079-6a, image: WYG1094/WYG1094-0724c.png}
   back: []
-hash: sha256:249f4c7d5c9140ba3c0dcbb5831304201206854bbd78091863e725d8be9266ef
+hash: sha256:2e125b5576ab19b3aa6de420e527d1c4c9e2d01845fcbe8791f6a19a9007aa15

@@ -561,6 +561,7 @@ markers:
   - {type: variant, offset: 1400, length: 11, content: 貼黄此事若稍更遷延竊慮, WYG: 乞罷刺}
   - {type: substitution, offset: 1401, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 1402, content: (, id: KR4d0040_krp_032-bkkpn1}
+  - {type: voice, offset: 1402, length: 39, name: note, id: n1}
   - {type: variant, offset: 1404, length: 1, content: 若, SBCK: 􅀂}
   - {type: variant, offset: 1415, length: 28, content: 已刺却手背無由更改伏望聖慈將臣文字早降中書樞宻院施行義勇, WYG: ''}
   - {type: punctuation, offset: 1420, content: /, id: KR4d0040_krp_032-bkkpn2}
@@ -1851,4 +1852,4 @@ markers:
 
       ', id: KR4d0040_krp_032-bkkkrnewl315}
   back: []
-hash: sha256:e5768948be58fc803cc50aedb554fe5855adb92c079f690bb41fef596da65286
+hash: sha256:98a4bb8508d5ccda567bb3552eca4d69802afa80d3d24ff1d2ff66ec1b82be15

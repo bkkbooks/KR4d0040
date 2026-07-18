@@ -84,6 +84,7 @@ markers:
   - {type: indent, offset: 79, content: 　, id: KR4d0040_krp_058-bkkind13}
   - {type: substitution, offset: 79, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 85, content: (, id: KR4d0040_krp_058-bkkpn1}
+  - {type: voice, offset: 85, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 87, content: /, id: KR4d0040_krp_058-bkkpn2}
   - {type: punctuation, offset: 88, content: ), id: KR4d0040_krp_058-bkkpn3}
   - {type: 'kr:newline', offset: 88, content: '
@@ -98,6 +99,7 @@ markers:
   - {type: indent, offset: 98, content: 　　　, id: KR4d0040_krp_058-bkkind15}
   - {type: variant, offset: 102, length: 1, content: 雜, SBCK: 􅄂}
   - {type: punctuation, offset: 106, content: (, id: KR4d0040_krp_058-bkkpn4}
+  - {type: voice, offset: 106, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 113, content: ), id: KR4d0040_krp_058-bkkpn5}
   - {type: 'kr:newline', offset: 113, content: '
 
@@ -105,6 +107,7 @@ markers:
   - {type: line-break, offset: 113, content: '', id: KR4d0040_SBCK_058-1b04}
   - {type: indent, offset: 113, content: 　　　, id: KR4d0040_krp_058-bkkind16}
   - {type: punctuation, offset: 122, content: (, id: KR4d0040_krp_058-bkkpn6}
+  - {type: voice, offset: 122, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 124, content: /, id: KR4d0040_krp_058-bkkpn7}
   - {type: punctuation, offset: 125, content: ), id: KR4d0040_krp_058-bkkpn8}
   - {type: 'kr:newline', offset: 125, content: '
@@ -1770,6 +1773,7 @@ markers:
   - {type: variant, offset: 5412, length: 248, content: 荅聞喜馬寺丞中庸書月日光頓首再拜明府寺丞閤下光頃日雖得邂逅奉望顔色然殊未暇陪從容杼悃𣢾也今者猥蒙記存逺賜之書仍以新與邑中賢士大夫治孔子祠命爲之記何采聽之過而責望之重也且愧且恐若無所容光資性頑蔽辭藝鄙薄平居爲朝夕近用之文猶多乖僻取人嗤傲况於語先聖之道載賢令之功鐫之金石傳之將來是猶執尫人而負之以千鈞之重雖欲自託於顯茂之業而貪不朽之榮獨不輕先聖而累明府羞邑中之賢士大夫乎此誠非光之所敢任也伏惟寛明當賜開察改求酣鬯於道而冨有於文者使爲之則冝與大名昭昭千古不窮矣若光類者正可相與誦咏而巳不宣司馬光頓首再拜, WYG: ''}
   - {type: substitution, offset: 5412, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 5418, content: (, id: KR4d0040_krp_058-bkkpn9}
+  - {type: voice, offset: 5418, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5420, content: ), id: KR4d0040_krp_058-bkkpn10}
   - {type: 'kr:newline', offset: 5421, content: '
 
@@ -2373,4 +2377,4 @@ markers:
   - {type: variant, offset: 7154, length: 0, content: '', WYG: 欽定四庫全書傳家集巻五十九宋司馬光撰}
   - {type: page-break, offset: 7154, content: '', id: KR4d0040_WYG_059-1a, image: WYG1094/WYG1094-0521a.png}
   back: []
-hash: sha256:9788c71e4b40e467ab6acd0b99976a39183e1582792dfd06db94c1c29162a7a6
+hash: sha256:5956ac137b3983cee881c3871c30e4af219d4bfb66f425e6cf3513d5f3f853f4

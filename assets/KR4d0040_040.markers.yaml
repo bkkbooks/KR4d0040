@@ -32,6 +32,7 @@ markers:
   - {type: indent, offset: 16, content: 　　　　, id: KR4d0040_krp_040-bkkind4}
   - {type: variant, offset: 16, length: 506, content: 論召陜西邉臣劄子熙寧二年六月臣曏任御史中丞日聞國家招納夏國降民曽上言方今百軄未舉庶政未脩百姓未安倉庫未實将師未選軍法未立士卒未練噐械未精八事不完不可興兵智慮迃疎不合聖心俄而种諤等起綏州之役楊定為夏虜所殺陜西騷然困扵餽戍朝廷悔前之失故謪降种諤等以謝夏虜再三招撫方䏻得其稱臣奉表遵舊約朝廷特遣使者以誓詒冊命及金帛雜物賜之尚未返命今竊聞陛下復召种諤等詣闕引對不知陛下𣣔何所興爲中外聞者無所寒心夫布衣不守信義猶見輕扵郷黨况王者臨御四夷當叛則威之服則懐之使信義之眀皎如日月若戎狄幸而臣服無故擾之及其背誕則從而嫗煦之得其臣服又從而擾之其扵信義威懐如何哉國家以信義臣畜戎狄百有餘年前日种諤等舉而棄之興兵掩其不俻以邀一時之功僅䏻得不食之地百餘里飢虜萬餘人耳今地則歸之虜庭民則逃散略盡朝廷有所何得而發兵守衞轉粟饋餉公私之費以鉅萬計其爲失策豈不昭然今瘡痍未復憂患未弭臣前所言八事一無所修虜疑忌中國警備巳嚴怨毒之心蓄而未發諤等乃欲復為前日所為臣見其無復綏州之㓛而必有大敗覆没之事兵連禍結不可救解公私困竭盗賊将生此乃社稷之憂非獨邉鄙之患也孔子曰過而不改是謂過矣伏望陛下留神深念至扵再至扵三當先修内政未可輕議用兵實天下幸甚取進止體要疏熙寧, WYG: 熈寜}
   - {type: punctuation, offset: 24, content: (, id: KR4d0040_krp_040-bkkpn1}
+  - {type: voice, offset: 24, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 30, content: ), id: KR4d0040_krp_040-bkkpn2}
   - {type: 'kr:newline', offset: 30, content: '
 
@@ -184,6 +185,7 @@ markers:
   - {type: indent, offset: 517, content: 　　　　, id: KR4d0040_krp_040-bkkind5}
   - {type: punctuation, offset: 520, content: (, id: KR4d0040_krp_040-bkkpn3}
   - {type: variant, offset: 520, length: 1, content: 熙, SBCK: 􅄉}
+  - {type: voice, offset: 520, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 525, content: /, id: KR4d0040_krp_040-bkkpn4}
   - {type: punctuation, offset: 529, content: ), id: KR4d0040_krp_040-bkkpn5}
   - {type: 'kr:newline', offset: 529, content: '
@@ -1500,4 +1502,4 @@ markers:
   - {type: page-break, offset: 4434, content: '', id: KR4d0040_WYG_043-18b, image: WYG1094/WYG1094-0404d.png}
   - {type: page-break, offset: 4434, content: '', id: KR4d0040_WYG_044-1a, image: WYG1094/WYG1094-0405a.png}
   back: []
-hash: sha256:4e7ea24a3c6affa6a5bd41dd3692f5bdc0f6912a0876081db36f93c49c755a2a
+hash: sha256:68bc7e62e9426ebe1bd465284ec2a429d4bb6d618c3fca65eab5f505dbfbfa16

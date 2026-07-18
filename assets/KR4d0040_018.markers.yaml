@@ -77,6 +77,7 @@ markers:
   - {type: line-break, offset: 42, content: '', id: KR4d0040_SBCK_018-1b01}
   - {type: indent, offset: 42, content: 　　　　, id: KR4d0040_krp_018-bkkind12}
   - {type: punctuation, offset: 54, content: (, id: KR4d0040_krp_018-bkkpn1}
+  - {type: voice, offset: 54, length: 28, name: note, id: n1}
   - {type: variant, offset: 56, length: 1, content: 八, WYG: 五}
   - {type: punctuation, offset: 58, content: /, id: KR4d0040_krp_018-bkkpn2}
   - {type: punctuation, offset: 62, content: ), id: KR4d0040_krp_018-bkkpn3}
@@ -231,6 +232,7 @@ markers:
   - {type: indent, offset: 491, content: 　　　　, id: KR4d0040_krp_018-bkkind13}
   - {type: variant, offset: 492, length: 5, content: 德以下三道, WYG: 徳上殿}
   - {type: punctuation, offset: 493, content: (, id: KR4d0040_krp_018-bkkpn7}
+  - {type: voice, offset: 493, length: 37, name: note, id: n2}
   - {type: variant, offset: 499, length: 5, content: 嘉祐六年𥘉, WYG: 得㫖留中三劄並初}
   - {type: variant, offset: 503, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: punctuation, offset: 507, content: /, id: KR4d0040_krp_018-bkkpn8}
@@ -997,6 +999,7 @@ markers:
   - {type: variant, offset: 2760, length: 1, content: 决, WYG: 決}
   - {type: substitution, offset: 2760, original: 决, replacement: 決, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16386}}
   - {type: punctuation, offset: 2762, content: (, id: KR4d0040_krp_018-bkkpn13}
+  - {type: voice, offset: 2762, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 2767, content: /, id: KR4d0040_krp_018-bkkpn14}
   - {type: punctuation, offset: 2772, content: ), id: KR4d0040_krp_018-bkkpn15}
   - {type: 'kr:newline', offset: 2772, content: '
@@ -1298,6 +1301,7 @@ markers:
   - {type: line-break, offset: 3597, content: '', id: KR4d0040_SBCK_018-9a05}
   - {type: indent, offset: 3597, content: 　　　　, id: KR4d0040_krp_018-bkkind21}
   - {type: punctuation, offset: 3601, content: (, id: KR4d0040_krp_018-bkkpn16}
+  - {type: voice, offset: 3601, length: 10, name: note, id: n4}
   - {type: punctuation, offset: 3606, content: /, id: KR4d0040_krp_018-bkkpn17}
   - {type: punctuation, offset: 3611, content: ), id: KR4d0040_krp_018-bkkpn18}
   - {type: 'kr:newline', offset: 3611, content: '
@@ -1765,4 +1769,4 @@ markers:
 
       ', id: KR4d0040_krp_018-bkkkrnewl307}
   back: []
-hash: sha256:e177f335163ac1f90e6d2c50b6d1bd6c98e628fc45efc6e9757903bd0669d173
+hash: sha256:8168385357a2c29938a77860417ae0aa2209b5ea9fcef97a71c05e71d4cb2d8a

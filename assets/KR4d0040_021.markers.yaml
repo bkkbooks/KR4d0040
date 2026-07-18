@@ -184,6 +184,7 @@ markers:
   - {type: line-break, offset: 364, content: '', id: KR4d0040_SBCK_021-2a08}
   - {type: indent, offset: 364, content: 　　　　, id: KR4d0040_krp_021-bkkind18}
   - {type: punctuation, offset: 375, content: (, id: KR4d0040_krp_021-bkkpn1}
+  - {type: voice, offset: 375, length: 16, name: note, id: n1}
   - {type: variant, offset: 376, length: 0, content: '', WYG: 一月}
   - {type: variant, offset: 377, length: 1, content: 月, WYG: 十}
   - {type: variant, offset: 378, length: 1, content: 九, WYG: 五}
@@ -1264,6 +1265,7 @@ markers:
   - {type: indent, offset: 3643, content: 　　　　, id: KR4d0040_krp_021-bkkind27}
   - {type: punctuation, offset: 3649, content: (, id: KR4d0040_krp_021-bkkpn7}
   - {type: variant, offset: 3649, length: 0, content: '', WYG: 嘉祐七年}
+  - {type: voice, offset: 3649, length: 12, name: note, id: n2}
   - {type: variant, offset: 3651, length: 1, content: 三, WYG: 二}
   - {type: punctuation, offset: 3655, content: /, id: KR4d0040_krp_021-bkkpn8}
   - {type: variant, offset: 3655, length: 1, content: 田, WYG: 尋}
@@ -1451,6 +1453,7 @@ markers:
   - {type: indent, offset: 4263, content: 　　　　, id: KR4d0040_krp_021-bkkind29}
   - {type: punctuation, offset: 4270, content: (, id: KR4d0040_krp_021-bkkpn10}
   - {type: variant, offset: 4270, length: 0, content: '', WYG: 嘉祐七年}
+  - {type: voice, offset: 4270, length: 17, name: note, id: n3}
   - {type: variant, offset: 4277, length: 4, content: 来月五日, WYG: ''}
   - {type: substitution, offset: 4277, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: punctuation, offset: 4279, content: /, id: KR4d0040_krp_021-bkkpn11}
@@ -1849,4 +1852,4 @@ markers:
 
       ', id: KR4d0040_krp_021-bkkkrnewl321}
   back: []
-hash: sha256:f892ffd950ff0891d4aefa7df9a275e6fa317880845dd20826ca4fb9f76c2cbc
+hash: sha256:d131e2cfe5710e963f0788f591455c4779f377bd645e94643423b1dae0e616a6

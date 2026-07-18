@@ -8,5 +8,6 @@ markers:
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR4d0040_WYG_072-bkkkrnewl1}
+  - {type: 'voice:problem', offset: 1, length: 0, id: KR4d0040_WYG_072-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 1 with no matching '('}
   back: []
-hash: sha256:e8151ecf861678c7be263b61a2210f024204347be0e34c70b1145177f3ff7ac9
+hash: sha256:296fea5e16ee62165517c5c6ac032e1afe3cff585be9f38fd50db5f7221d15e2

@@ -242,6 +242,7 @@ markers:
   - {type: line-break, offset: 558, content: '', id: KR4d0040_SBCK_029-2b02}
   - {type: punctuation, offset: 562, content: (, id: KR4d0040_krp_029-bkkpn1}
   - {type: variant, offset: 562, length: 14, content: 目劄子乞更之降出只作聖意自諭, WYG: ''}
+  - {type: voice, offset: 562, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 569, content: /, id: KR4d0040_krp_029-bkkpn2}
   - {type: punctuation, offset: 576, content: ), id: KR4d0040_krp_029-bkkpn3}
   - {type: 'kr:newline', offset: 576, content: '
@@ -566,6 +567,7 @@ markers:
   - {type: line-break, offset: 1501, content: '', id: KR4d0040_SBCK_029-4b02}
   - {type: punctuation, offset: 1502, content: (, id: KR4d0040_krp_029-bkkpn4}
   - {type: variant, offset: 1502, length: 2, content: 御名, WYG: 搆}
+  - {type: voice, offset: 1502, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1503, content: /, id: KR4d0040_krp_029-bkkpn5}
   - {type: punctuation, offset: 1504, content: ), id: KR4d0040_krp_029-bkkpn6}
   - {type: substitution, offset: 1519, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
@@ -1524,6 +1526,7 @@ markers:
       ', id: KR4d0040_krp_029-bkkkrnewl257}
   - {type: line-break, offset: 4453, content: '', id: KR4d0040_SBCK_029-10b11}
   - {type: punctuation, offset: 4455, content: (, id: KR4d0040_krp_029-bkkpn7}
+  - {type: voice, offset: 4455, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4457, content: ), id: KR4d0040_krp_029-bkkpn8}
   - {type: substitution, offset: 4464, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: variant, offset: 4469, length: 1, content: 若, SBCK: 􅀂}
@@ -1594,4 +1597,4 @@ markers:
 
       ', id: KR4d0040_krp_029-bkkkrnewl270}
   back: []
-hash: sha256:1a52f268d482458477994842f0c7f702ef2b42b59ab555b9534aaf38e6eb90b8
+hash: sha256:28e4d34e5382d2793784e5561a6332eb37f5af33c519bc8566fa6e42c24e5745

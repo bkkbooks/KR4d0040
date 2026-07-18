@@ -469,6 +469,7 @@ markers:
   - {type: substitution, offset: 1161, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1165, content: (, id: KR4d0040_krp_079-bkkpn1}
   - {type: variant, offset: 1165, length: 2, content: 御名, WYG: 慎}
+  - {type: voice, offset: 1165, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1166, content: /, id: KR4d0040_krp_079-bkkpn2}
   - {type: punctuation, offset: 1167, content: ), id: KR4d0040_krp_079-bkkpn3}
   - {type: variant, offset: 1169, length: 1, content: 若, SBCK: 􅀂}
@@ -479,6 +480,7 @@ markers:
   - {type: line-break, offset: 1177, content: '', id: KR4d0040_SBCK_079-3b06}
   - {type: punctuation, offset: 1178, content: (, id: KR4d0040_krp_079-bkkpn4}
   - {type: variant, offset: 1178, length: 2, content: 御名, WYG: 慎}
+  - {type: voice, offset: 1178, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1179, content: /, id: KR4d0040_krp_079-bkkpn5}
   - {type: punctuation, offset: 1180, content: ), id: KR4d0040_krp_079-bkkpn6}
   - {type: variant, offset: 1183, length: 1, content: 警, WYG: 儆}
@@ -1531,6 +1533,7 @@ markers:
   - {type: line-break, offset: 3794, content: '', id: KR4d0040_SBCK_079-9a11}
   - {type: punctuation, offset: 3794, content: (, id: KR4d0040_krp_079-bkkpn7}
   - {type: variant, offset: 3794, length: 4, content: 太土御名, WYG: 構}
+  - {type: voice, offset: 3794, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 3796, content: /, id: KR4d0040_krp_079-bkkpn8}
   - {type: punctuation, offset: 3798, content: ), id: KR4d0040_krp_079-bkkpn9}
   - {type: variant, offset: 3799, length: 1, content: 耻, WYG: 恥}
@@ -2005,6 +2008,7 @@ markers:
   - {type: line-break, offset: 5054, content: '', id: KR4d0040_SBCK_079-12a02}
   - {type: punctuation, offset: 5060, content: (, id: KR4d0040_krp_079-bkkpn10}
   - {type: variant, offset: 5060, length: 4, content: 太上御名, WYG: 搆}
+  - {type: voice, offset: 5060, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 5062, content: /, id: KR4d0040_krp_079-bkkpn11}
   - {type: punctuation, offset: 5064, content: ), id: KR4d0040_krp_079-bkkpn12}
   - {type: variant, offset: 5065, length: 1, content: 羣, WYG: 群}
@@ -2320,4 +2324,4 @@ markers:
   - {type: page-break, offset: 5691, content: '', id: KR4d0040_WYG_080-5a, image: WYG1094/WYG1094-0733a.png}
   - {type: page-break, offset: 5691, content: '', id: KR4d0040_WYG_080-5b, image: WYG1094/WYG1094-0733b.png}
   back: []
-hash: sha256:d0b915de671fdaf9b609918ae7ec7026ccc8e4bded19433305d3f2bb705e0c46
+hash: sha256:0017ce0cf42cf15c378bce7374441c1cd1d70a7aca678979328e6e409f28e00d

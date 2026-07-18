@@ -722,6 +722,7 @@ markers:
   - {type: line-break, offset: 2109, content: '', id: KR4d0040_SBCK_034-5b07}
   - {type: punctuation, offset: 2123, content: (, id: KR4d0040_krp_034-bkkpn1}
   - {type: variant, offset: 2123, length: 4, content: 端聖御名, WYG: 桓}
+  - {type: voice, offset: 2123, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2125, content: /, id: KR4d0040_krp_034-bkkpn2}
   - {type: punctuation, offset: 2127, content: ), id: KR4d0040_krp_034-bkkpn3}
   - {type: 'kr:newline', offset: 2132, content: '
@@ -1122,6 +1123,7 @@ markers:
   - {type: variant, offset: 3291, length: 0, content: '', WYG: 乞不受}
   - {type: punctuation, offset: 3295, content: (, id: KR4d0040_krp_034-bkkpn4}
   - {type: variant, offset: 3295, length: 0, content: '', WYG: 治平二年}
+  - {type: voice, offset: 3295, length: 23, name: note, id: n2}
   - {type: variant, offset: 3299, length: 3, content: 旣而群, WYG: 上由是羣}
   - {type: substitution, offset: 3299, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 3307, content: /, id: KR4d0040_krp_034-bkkpn5}
@@ -1709,6 +1711,7 @@ markers:
   - {type: indent, offset: 4911, content: 　　　　, id: KR4d0040_krp_034-bkkind20}
   - {type: variant, offset: 4913, length: 1, content: 圗, WYG: 圖}
   - {type: punctuation, offset: 4921, content: (, id: KR4d0040_krp_034-bkkpn7}
+  - {type: voice, offset: 4921, length: 12, name: note, id: n3}
   - {type: variant, offset: 4923, length: 1, content: 旨, WYG: 㫖}
   - {type: variant, offset: 4925, length: 1, content: 諌, WYG: 諫}
   - {type: punctuation, offset: 4927, content: /, id: KR4d0040_krp_034-bkkpn8}
@@ -1759,6 +1762,7 @@ markers:
   - {type: line-break, offset: 5053, content: '', id: KR4d0040_SBCK_034-12a04}
   - {type: punctuation, offset: 5070, content: (, id: KR4d0040_krp_034-bkkpn10}
   - {type: variant, offset: 5070, length: 5, content: 盤聖御名強, WYG: 桓强}
+  - {type: voice, offset: 5070, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 5072, content: /, id: KR4d0040_krp_034-bkkpn11}
   - {type: punctuation, offset: 5074, content: ), id: KR4d0040_krp_034-bkkpn12}
   - {type: 'kr:newline', offset: 5076, content: '
@@ -1837,4 +1841,4 @@ markers:
       ', id: KR4d0040_krp_034-bkkkrnewl300}
   - {type: variant, offset: 5227, length: 0, content: '', WYG: 庫全書傳家集巻三十七宋司馬光撰}
   back: []
-hash: sha256:beb64218fe54bf28d511bbafe0d35e7fb21b6879bb80c0bc018fd85a85b8c5b9
+hash: sha256:5b88a5357dd1bc9b6f9d74ed87217c0b9445a601c6f99e61c3cdf72700ea6b4f

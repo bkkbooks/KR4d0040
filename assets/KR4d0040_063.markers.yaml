@@ -1532,6 +1532,7 @@ markers:
   - {type: page-break, offset: 4411, content: '', id: KR4d0040_WYG_063-23b, image: WYG1094/WYG1094-0584d.png}
   - {type: punctuation, offset: 4417, content: (, id: KR4d0040_krp_063-bkkpn1}
   - {type: variant, offset: 4417, length: 9, content: 檢門下開折簿曾行下, WYG: ''}
+  - {type: voice, offset: 4417, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 4422, content: /, id: KR4d0040_krp_063-bkkpn2}
   - {type: punctuation, offset: 4426, content: ), id: KR4d0040_krp_063-bkkpn3}
   - {type: 'kr:newline', offset: 4429, content: '
@@ -1691,6 +1692,7 @@ markers:
       ', id: KR4d0040_krp_063-bkkkrnewl287}
   - {type: line-break, offset: 4891, content: '', id: KR4d0040_SBCK_063-12a02}
   - {type: punctuation, offset: 4900, content: (, id: KR4d0040_krp_063-bkkpn4}
+  - {type: voice, offset: 4900, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 4909, content: /, id: KR4d0040_krp_063-bkkpn5}
   - {type: variant, offset: 4913, length: 1, content: 數, SBCK: 􅁆}
   - {type: punctuation, offset: 4918, content: ), id: KR4d0040_krp_063-bkkpn6}
@@ -2325,4 +2327,4 @@ markers:
 
       ', id: KR4d0040_krp_063-bkkkrnewl353}
   back: []
-hash: sha256:eefc765149b7b5f533855889da644db0ad7e69fdd71563d7457b96dc432317ad
+hash: sha256:91f12f23c7cf1fdb994ee5aa66a018780c6e008d2e313e28e1593c0100893e28

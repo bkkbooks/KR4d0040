@@ -97,6 +97,7 @@ markers:
   - {type: line-break, offset: 72, content: '', id: KR4d0040_SBCK_054-1a09}
   - {type: indent, offset: 72, content: 　　　　　, id: KR4d0040_krp_054-bkkind8}
   - {type: punctuation, offset: 73, content: (, id: KR4d0040_krp_054-bkkpn1}
+  - {type: voice, offset: 73, length: 13, name: note, id: n1}
   - {type: punctuation, offset: 80, content: /, id: KR4d0040_krp_054-bkkpn2}
   - {type: punctuation, offset: 86, content: ), id: KR4d0040_krp_054-bkkpn3}
   - {type: 'kr:newline', offset: 86, content: '
@@ -304,6 +305,7 @@ markers:
   - {type: variant, offset: 487, length: 1, content: 聽, WYG: 聴}
   - {type: punctuation, offset: 498, content: (, id: KR4d0040_krp_054-bkkpn4}
   - {type: variant, offset: 498, length: 5, content: 乞特賜批依, WYG: ''}
+  - {type: voice, offset: 498, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 501, content: /, id: KR4d0040_krp_054-bkkpn5}
   - {type: punctuation, offset: 503, content: ), id: KR4d0040_krp_054-bkkpn6}
   - {type: 'kr:newline', offset: 503, content: '
@@ -317,6 +319,7 @@ markers:
   - {type: indent, offset: 503, content: 　　　　, id: KR4d0040_krp_054-bkkind19}
   - {type: punctuation, offset: 509, content: (, id: KR4d0040_krp_054-bkkpn7}
   - {type: variant, offset: 509, length: 5, content: 二十七日上, WYG: ''}
+  - {type: voice, offset: 509, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 513, content: /, id: KR4d0040_krp_054-bkkpn8}
   - {type: punctuation, offset: 517, content: ), id: KR4d0040_krp_054-bkkpn9}
   - {type: 'kr:newline', offset: 517, content: '
@@ -392,6 +395,7 @@ markers:
   - {type: indent, offset: 673, content: 　　　　, id: KR4d0040_krp_054-bkkind22}
   - {type: punctuation, offset: 674, content: (, id: KR4d0040_krp_054-bkkpn10}
   - {type: variant, offset: 674, length: 10, content: 七月二十八日三省同上, WYG: 尋}
+  - {type: voice, offset: 674, length: 13, name: note, id: n4}
   - {type: punctuation, offset: 681, content: /, id: KR4d0040_krp_054-bkkpn11}
   - {type: variant, offset: 685, length: 1, content: 旨, WYG: 㫖}
   - {type: punctuation, offset: 687, content: ), id: KR4d0040_krp_054-bkkpn12}
@@ -476,6 +480,7 @@ markers:
   - {type: substitution, offset: 912, original: 㪷, replacement: 斗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-2282}}
   - {type: punctuation, offset: 916, content: (, id: KR4d0040_krp_054-bkkpn13}
   - {type: variant, offset: 916, length: 7, content: 八月三日三省同, WYG: 元祐元年}
+  - {type: voice, offset: 916, length: 11, name: note, id: n5}
   - {type: punctuation, offset: 920, content: /, id: KR4d0040_krp_054-bkkpn14}
   - {type: punctuation, offset: 924, content: ), id: KR4d0040_krp_054-bkkpn15}
   - {type: 'kr:newline', offset: 924, content: '
@@ -867,6 +872,7 @@ markers:
   - {type: variant, offset: 1947, length: 0, content: '', WYG: 不得}
   - {type: punctuation, offset: 1955, content: (, id: KR4d0040_krp_054-bkkpn19}
   - {type: variant, offset: 1955, length: 29, content: 同前中書舎人蘇軾不肯簽臺諌亦累章乞盡罷四日再進呈後劄子檢㑹, WYG: 元祐元年上撿會}
+  - {type: voice, offset: 1955, length: 27, name: note, id: n6}
   - {type: punctuation, offset: 1959, content: /, id: KR4d0040_krp_054-bkkpn20}
   - {type: substitution, offset: 1959, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: punctuation, offset: 1963, content: ), id: KR4d0040_krp_054-bkkpn21}
@@ -1008,6 +1014,7 @@ markers:
   - {type: variant, offset: 2324, length: 1, content: 苗, WYG: 苖錢}
   - {type: punctuation, offset: 2328, content: (, id: KR4d0040_krp_054-bkkpn25}
   - {type: variant, offset: 2328, length: 4, content: 四日進呈, WYG: 元祐元年上}
+  - {type: voice, offset: 2328, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 2332, content: /, id: KR4d0040_krp_054-bkkpn26}
   - {type: variant, offset: 2333, length: 1, content: 旨, WYG: 㫖}
   - {type: punctuation, offset: 2335, content: ), id: KR4d0040_krp_054-bkkpn27}
@@ -1073,6 +1080,7 @@ markers:
   - {type: indent, offset: 2498, content: 　　　　, id: KR4d0040_krp_054-bkkind26}
   - {type: variant, offset: 2498, length: 125, content: 薦王大臨劄子八月八日上大臨除太學録巳卒臣竊見鄆州處士王大臨通經術善講說安仁樂義譽髙鄉曲貧不易志老不變節曏常有詔敦遣固辭不起伏望聖慈召致京師寘之學官爲士類矜式取進止乞官陳洙一子劄子嘉祐中仁宗皇帝未有継嗣故殿中侍御史陳洙奏乞擇宗室之賢者立以爲後旣發奏狀謂, WYG: 傳}
   - {type: punctuation, offset: 2504, content: (, id: KR4d0040_krp_054-bkkpn28}
+  - {type: voice, offset: 2504, length: 13, name: note, id: n8}
   - {type: punctuation, offset: 2511, content: /, id: KR4d0040_krp_054-bkkpn29}
   - {type: punctuation, offset: 2517, content: ), id: KR4d0040_krp_054-bkkpn30}
   - {type: 'kr:newline', offset: 2517, content: '
@@ -1157,6 +1165,7 @@ markers:
   - {type: line-break, offset: 2738, content: '', id: KR4d0040_SBCK_054-7a11}
   - {type: indent, offset: 2738, content: 　　　　, id: KR4d0040_krp_054-bkkind28}
   - {type: punctuation, offset: 2748, content: (, id: KR4d0040_krp_054-bkkpn31}
+  - {type: voice, offset: 2748, length: 12, name: note, id: n9}
   - {type: punctuation, offset: 2754, content: /, id: KR4d0040_krp_054-bkkpn32}
   - {type: substitution, offset: 2758, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 2760, content: ), id: KR4d0040_krp_054-bkkpn33}
@@ -1434,6 +1443,7 @@ markers:
       ', id: KR4d0040_krp_054-bkkkrnewl216}
   - {type: line-break, offset: 3642, content: '', id: KR4d0040_SBCK_054-9a09}
   - {type: punctuation, offset: 3661, content: (, id: KR4d0040_krp_054-bkkpn34}
+  - {type: voice, offset: 3661, length: 23, name: note, id: n10}
   - {type: punctuation, offset: 3662, content: /, id: KR4d0040_krp_054-bkkpn35}
   - {type: punctuation, offset: 3663, content: ), id: KR4d0040_krp_054-bkkpn36}
   - {type: 'kr:newline', offset: 3663, content: '
@@ -1759,4 +1769,4 @@ markers:
 
       ', id: KR4d0040_krp_054-bkkkrnewl276}
   back: []
-hash: sha256:8c42d2d6882306296b97da7f2bd3642afb49c5283856b345f6ea8d1a6d3a063d
+hash: sha256:0ddfbdc52d6ed4586c95a0d31a4d802465f7e8a86344bdac983ca0702adcd14e

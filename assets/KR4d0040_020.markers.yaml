@@ -110,6 +110,7 @@ markers:
   - {type: line-break, offset: 109, content: '', id: KR4d0040_SBCK_020-1b08}
   - {type: indent, offset: 109, content: 　　　　, id: KR4d0040_krp_020-bkkind19}
   - {type: punctuation, offset: 115, content: (, id: KR4d0040_krp_020-bkkpn1}
+  - {type: voice, offset: 115, length: 39, name: note, id: n1}
   - {type: substitution, offset: 121, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 125, content: /, id: KR4d0040_krp_020-bkkpn2}
   - {type: punctuation, offset: 135, content: ), id: KR4d0040_krp_020-bkkpn3}
@@ -257,6 +258,7 @@ markers:
   - {type: indent, offset: 567, content: 　　　　, id: KR4d0040_krp_020-bkkind21}
   - {type: punctuation, offset: 573, content: (, id: KR4d0040_krp_020-bkkpn7}
   - {type: substitution, offset: 573, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
+  - {type: voice, offset: 573, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 575, content: /, id: KR4d0040_krp_020-bkkpn8}
   - {type: punctuation, offset: 577, content: ), id: KR4d0040_krp_020-bkkpn9}
   - {type: 'kr:newline', offset: 577, content: '
@@ -383,6 +385,7 @@ markers:
   - {type: line-break, offset: 989, content: '', id: KR4d0040_SBCK_020-3b09}
   - {type: indent, offset: 989, content: 　　　　, id: KR4d0040_krp_020-bkkind23}
   - {type: punctuation, offset: 995, content: (, id: KR4d0040_krp_020-bkkpn10}
+  - {type: voice, offset: 995, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 1001, content: /, id: KR4d0040_krp_020-bkkpn11}
   - {type: punctuation, offset: 1007, content: ), id: KR4d0040_krp_020-bkkpn12}
   - {type: 'kr:newline', offset: 1007, content: '
@@ -594,6 +597,7 @@ markers:
   - {type: line-break, offset: 1663, content: '', id: KR4d0040_SBCK_020-5a10}
   - {type: indent, offset: 1663, content: 　　　　, id: KR4d0040_krp_020-bkkind26}
   - {type: punctuation, offset: 1669, content: (, id: KR4d0040_krp_020-bkkpn13}
+  - {type: voice, offset: 1669, length: 14, name: note, id: n4}
   - {type: punctuation, offset: 1670, content: /, id: KR4d0040_krp_020-bkkpn14}
   - {type: punctuation, offset: 1676, content: /, id: KR4d0040_krp_020-bkkpn15}
   - {type: punctuation, offset: 1683, content: ), id: KR4d0040_krp_020-bkkpn16}
@@ -730,6 +734,7 @@ markers:
   - {type: line-break, offset: 2149, content: '', id: KR4d0040_SBCK_020-6a11}
   - {type: indent, offset: 2149, content: 　　　　, id: KR4d0040_krp_020-bkkind27}
   - {type: punctuation, offset: 2155, content: (, id: KR4d0040_krp_020-bkkpn17}
+  - {type: voice, offset: 2155, length: 10, name: note, id: n5}
   - {type: punctuation, offset: 2160, content: /, id: KR4d0040_krp_020-bkkpn18}
   - {type: punctuation, offset: 2165, content: ), id: KR4d0040_krp_020-bkkpn19}
   - {type: 'kr:newline', offset: 2165, content: '
@@ -789,6 +794,7 @@ markers:
   - {type: line-break, offset: 2357, content: '', id: KR4d0040_SBCK_020-6b10}
   - {type: indent, offset: 2357, content: 　　　　, id: KR4d0040_krp_020-bkkind28}
   - {type: punctuation, offset: 2359, content: (, id: KR4d0040_krp_020-bkkpn20}
+  - {type: voice, offset: 2359, length: 25, name: note, id: n6}
   - {type: substitution, offset: 2371, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
   - {type: punctuation, offset: 2372, content: /, id: KR4d0040_krp_020-bkkpn21}
   - {type: punctuation, offset: 2384, content: ), id: KR4d0040_krp_020-bkkpn22}
@@ -1482,4 +1488,4 @@ markers:
   - {type: variant, offset: 4403, length: 0, content: '', WYG: 二欽定四庫全書傳家集巻二十三宋司馬光撰章奏六}
   - {type: page-break, offset: 4403, content: '', id: KR4d0040_WYG_023-1a, image: WYG1094/WYG1094-0231c.png}
   back: []
-hash: sha256:92d13fb7a9342953371b54ef1fb4e3c363902005657db8d51ab8efc3abc1f122
+hash: sha256:228625d8d0e8664a569c65a75f5ff1eea4ed7c98982ee49f221704e6eb375b16

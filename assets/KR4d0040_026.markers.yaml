@@ -63,6 +63,7 @@ markers:
   - {type: line-break, offset: 55, content: '', id: KR4d0040_SBCK_026-1a11}
   - {type: indent, offset: 55, content: 　　　, id: KR4d0040_krp_026-bkkind10}
   - {type: punctuation, offset: 60, content: (, id: KR4d0040_krp_026-bkkpn1}
+  - {type: voice, offset: 60, length: 13, name: note, id: n1}
   - {type: substitution, offset: 66, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
   - {type: punctuation, offset: 67, content: /, id: KR4d0040_krp_026-bkkpn2}
   - {type: punctuation, offset: 73, content: ), id: KR4d0040_krp_026-bkkpn3}
@@ -82,6 +83,7 @@ markers:
   - {type: indent, offset: 77, content: 　　　, id: KR4d0040_krp_026-bkkind12}
   - {type: substitution, offset: 78, original: 寕, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16282}}
   - {type: punctuation, offset: 85, content: (, id: KR4d0040_krp_026-bkkpn4}
+  - {type: voice, offset: 85, length: 10, name: note, id: n2}
   - {type: variant, offset: 89, length: 1, content: 九, WYG: 一}
   - {type: punctuation, offset: 90, content: /, id: KR4d0040_krp_026-bkkpn5}
   - {type: variant, offset: 92, length: 29, content: 㝷撤去遣奠劄子後殿起居劄子皇地祇劄子虞祭劄子論御藥寄資劄子, WYG: ''}
@@ -646,6 +648,7 @@ markers:
   - {type: substitution, offset: 1698, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: punctuation, offset: 1708, content: (, id: KR4d0040_krp_026-bkkpn7}
   - {type: variant, offset: 1708, length: 3, content: 犯御名, WYG: 構}
+  - {type: voice, offset: 1708, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 1709, content: /, id: KR4d0040_krp_026-bkkpn8}
   - {type: punctuation, offset: 1711, content: ), id: KR4d0040_krp_026-bkkpn9}
   - {type: 'kr:newline', offset: 1719, content: '
@@ -1277,6 +1280,7 @@ markers:
   - {type: line-break, offset: 3561, content: '', id: KR4d0040_SBCK_026-9a10}
   - {type: indent, offset: 3561, content: 　　　　, id: KR4d0040_krp_026-bkkind26}
   - {type: punctuation, offset: 3566, content: (, id: KR4d0040_krp_026-bkkpn10}
+  - {type: voice, offset: 3566, length: 13, name: note, id: n4}
   - {type: variant, offset: 3569, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 3572, length: 7, content: 㝷下兩路轉運司, WYG: ''}
   - {type: substitution, offset: 3572, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
@@ -1426,6 +1430,7 @@ markers:
   - {type: variant, offset: 3943, length: 1, content: 寧, WYG: 寜}
   - {type: punctuation, offset: 3950, content: (, id: KR4d0040_krp_026-bkkpn13}
   - {type: variant, offset: 3950, length: 0, content: '', WYG: 嘉祐八年}
+  - {type: voice, offset: 3950, length: 10, name: note, id: n5}
   - {type: variant, offset: 3952, length: 0, content: '', WYG: 㫖}
   - {type: punctuation, offset: 3955, content: /, id: KR4d0040_krp_026-bkkpn14}
   - {type: variant, offset: 3957, length: 1, content: 㝷, WYG: 尋}
@@ -1877,4 +1882,4 @@ markers:
   - {type: page-break, offset: 5141, content: '', id: KR4d0040_WYG_029-2a, image: WYG1094/WYG1094-0282c.png}
   - {type: page-break, offset: 5141, content: '', id: KR4d0040_WYG_029-2b, image: WYG1094/WYG1094-0282d.png}
   back: []
-hash: sha256:63112dbc5ca67b7063becdc2a803ffc1f31d9fd8d4a38dac1d4737d9d10fdaa9
+hash: sha256:a15579f68683af0e562e8deea3458e5512b341f1a159271e481b9426413b1fc5

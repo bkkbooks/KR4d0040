@@ -560,6 +560,7 @@ markers:
   - {type: line-break, offset: 1636, content: '', id: KR4d0040_SBCK_046-4b07}
   - {type: punctuation, offset: 1655, content: (, id: KR4d0040_krp_046-bkkpn1}
   - {type: variant, offset: 1655, length: 4, content: 淵聖御名, WYG: 桓}
+  - {type: voice, offset: 1655, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1657, content: /, id: KR4d0040_krp_046-bkkpn2}
   - {type: punctuation, offset: 1659, content: ), id: KR4d0040_krp_046-bkkpn3}
   - {type: 'kr:newline', offset: 1659, content: '
@@ -750,6 +751,7 @@ markers:
   - {type: variant, offset: 2223, length: 1, content: 久, WYG: 人}
   - {type: punctuation, offset: 2236, content: (, id: KR4d0040_krp_046-bkkpn4}
   - {type: variant, offset: 2236, length: 4, content: 淵聖御名, WYG: 桓}
+  - {type: voice, offset: 2236, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2238, content: /, id: KR4d0040_krp_046-bkkpn5}
   - {type: punctuation, offset: 2240, content: ), id: KR4d0040_krp_046-bkkpn6}
   - {type: 'kr:newline', offset: 2244, content: '
@@ -1926,4 +1928,4 @@ markers:
   - {type: variant, offset: 5522, length: 0, content: '', WYG: 欽定四庫全書傳家集巻四十七宋司馬光撰章奏三十}
   - {type: page-break, offset: 5522, content: '', id: KR4d0040_WYG_047-1a, image: WYG1094/WYG1094-0441c.png}
   back: []
-hash: sha256:ab4b5f7512ea25751a65dbef0edf36dedc227dc510b90ca26e33e3fa81b9bd40
+hash: sha256:ca07fdbafd2fa50ef01109a9a0cf00f0f345669fd2a93d1d0598708b722b6a3d

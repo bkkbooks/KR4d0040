@@ -1362,6 +1362,7 @@ markers:
   - {type: variant, offset: 4665, length: 0, content: '', WYG: 辭門下侍郎}
   - {type: punctuation, offset: 4669, content: (, id: KR4d0040_krp_047-bkkpn1}
   - {type: variant, offset: 4669, length: 4, content: 又未上間, WYG: 是日}
+  - {type: voice, offset: 4669, length: 33, name: note, id: n1}
   - {type: punctuation, offset: 4681, content: /, id: KR4d0040_krp_047-bkkpn2}
   - {type: variant, offset: 4681, length: 3, content: 令受傳, WYG: 云賜卿手詔深體予懐更不多免嗣君年德未高吾當同處萬務所賴方正之士賛佐邦國想宜知悉再}
   - {type: variant, offset: 4685, length: 1, content: 云, WYG: 諭前日所奏乞引對上殿訖赴任其日已降指揮除卿門下侍郎切要與卿商量軍國政事早來所奏偹悉卿意}
@@ -1617,4 +1618,4 @@ markers:
 
       ', id: KR4d0040_krp_047-bkkkrnewl311}
   back: []
-hash: sha256:d3fad429fed5278f857a5d20cef414c2b1ad063deab0786e46630d05946d0732
+hash: sha256:0cd20008ddf351fa6fe633948028a0ba282e82a5075f8b7a817846ee51a69062

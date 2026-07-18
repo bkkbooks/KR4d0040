@@ -988,6 +988,7 @@ markers:
   - {type: indent, offset: 2620, content: 　　　　, id: KR4d0040_krp_022-bkkind19}
   - {type: punctuation, offset: 2623, content: (, id: KR4d0040_krp_022-bkkpn1}
   - {type: variant, offset: 2623, length: 7, content: 二十三日上㝷蒙, WYG: 尋䝉}
+  - {type: voice, offset: 2623, length: 14, name: note, id: n1}
   - {type: substitution, offset: 2628, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
   - {type: punctuation, offset: 2630, content: /, id: KR4d0040_krp_022-bkkpn2}
   - {type: punctuation, offset: 2637, content: ), id: KR4d0040_krp_022-bkkpn3}
@@ -2009,4 +2010,4 @@ markers:
       ', id: KR4d0040_krp_022-bkkkrnewl334}
   - {type: variant, offset: 5786, length: 0, content: '', WYG: 十五宋司馬光撰}
   back: []
-hash: sha256:b47d0c93734eefc6642b94223f0d702ed28094a64caa0f7aeeb753cfff6589d5
+hash: sha256:ab8ab158212c13a1a532e31670be041b4033dbd2988fa0bc5bfc3242790c2ff5

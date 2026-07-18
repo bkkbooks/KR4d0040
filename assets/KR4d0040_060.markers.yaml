@@ -23,6 +23,7 @@ markers:
   - {type: substitution, offset: 6, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17638}}
   - {type: punctuation, offset: 13, content: (, id: KR4d0040_krp_060-bkkpn1}
   - {type: variant, offset: 13, length: 0, content: '', WYG: 書時}
+  - {type: voice, offset: 13, length: 10, name: note, id: n1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 為楚州糧料}
   - {type: punctuation, offset: 18, content: /, id: KR4d0040_krp_060-bkkpn2}
   - {type: variant, offset: 18, length: 65, content: 蕲門令丁隲荅周源同年書荅孔文仲司户書与王介甫書第二書第三書荅河陽李夷白祕校書荅齊州司法張祕校正彦書荅楚州粮料胡寺丞宗愈宗愈薦歙州蔪, WYG: 蘄}
@@ -77,6 +78,7 @@ markers:
   - {type: substitution, offset: 67, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: substitution, offset: 70, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17638}}
   - {type: punctuation, offset: 77, content: (, id: KR4d0040_krp_060-bkkpn4}
+  - {type: voice, offset: 77, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 82, content: /, id: KR4d0040_krp_060-bkkpn5}
   - {type: punctuation, offset: 87, content: ), id: KR4d0040_krp_060-bkkpn6}
   - {type: 'kr:newline', offset: 87, content: '
@@ -2060,4 +2062,4 @@ markers:
   - {type: variant, offset: 6103, length: 0, content: '', WYG: 欽定四庫全書傳家集巻}
   - {type: page-break, offset: 6103, content: '', id: KR4d0040_WYG_061-1a, image: WYG1094/WYG1094-0542a.png}
   back: []
-hash: sha256:06d239e8a637fc208a9580fe1307c2fcf4dfb182eb9198dc365efe8530c4da84
+hash: sha256:e9b20ec4eae73eeed6f69e70f3a6290dcfc4169c9482775454130a019fba1892

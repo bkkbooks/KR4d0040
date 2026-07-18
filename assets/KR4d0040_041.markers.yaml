@@ -217,6 +217,7 @@ markers:
   - {type: line-break, offset: 607, content: '', id: KR4d0040_SBCK_041-2b04}
   - {type: substitution, offset: 608, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 609, content: (, id: KR4d0040_krp_041-bkkpn1}
+  - {type: voice, offset: 609, length: 52, name: note, id: n1}
   - {type: substitution, offset: 615, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: variant, offset: 616, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 627, content: /, id: KR4d0040_krp_041-bkkpn2}
@@ -1021,6 +1022,7 @@ markers:
   - {type: line-break, offset: 3379, content: '', id: KR4d0040_SBCK_041-8b05}
   - {type: punctuation, offset: 3386, content: (, id: KR4d0040_krp_041-bkkpn7}
   - {type: variant, offset: 3386, length: 5, content: 正刑正法也, WYG: ''}
+  - {type: voice, offset: 3386, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 3389, content: /, id: KR4d0040_krp_041-bkkpn8}
   - {type: punctuation, offset: 3391, content: ), id: KR4d0040_krp_041-bkkpn9}
   - {type: 'kr:newline', offset: 3401, content: '
@@ -2538,4 +2540,4 @@ markers:
   - {type: page-break, offset: 5513, content: '', id: KR4d0040_WYG_066-5b, image: WYG1094/WYG1094-0607d.png}
   - {type: page-break, offset: 5513, content: '', id: KR4d0040_WYG_066-6a, image: WYG1094/WYG1094-0608a.png}
   back: []
-hash: sha256:4e4c7d9f62a9a396880416760c0406b695d9c47420bdaf45c957f5cf85afa3b5
+hash: sha256:a7970dc761865481a27f27de6d8c4fbe4f7c47f1c7f1e06a619df5a6e51914e3

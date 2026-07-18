@@ -198,6 +198,7 @@ markers:
       ', id: KR4d0040_krp_071-bkkkrnewl30}
   - {type: line-break, offset: 356, content: '', id: KR4d0040_SBCK_071-2a05}
   - {type: punctuation, offset: 374, content: (, id: KR4d0040_krp_071-bkkpn1}
+  - {type: voice, offset: 374, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 375, content: /, id: KR4d0040_krp_071-bkkpn2}
   - {type: punctuation, offset: 376, content: ), id: KR4d0040_krp_071-bkkpn3}
   - {type: 'kr:newline', offset: 377, content: '
@@ -647,6 +648,7 @@ markers:
       ', id: KR4d0040_krp_071-bkkkrnewl113}
   - {type: line-break, offset: 1898, content: '', id: KR4d0040_SBCK_071-5a10}
   - {type: punctuation, offset: 1909, content: (, id: KR4d0040_krp_071-bkkpn4}
+  - {type: voice, offset: 1909, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1911, content: /, id: KR4d0040_krp_071-bkkpn5}
   - {type: punctuation, offset: 1913, content: ), id: KR4d0040_krp_071-bkkpn6}
   - {type: 'kr:newline', offset: 1921, content: '
@@ -659,6 +661,7 @@ markers:
   - {type: line-break, offset: 1941, content: '', id: KR4d0040_SBCK_071-5a12}
   - {type: substitution, offset: 1942, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19870}}
   - {type: punctuation, offset: 1943, content: (, id: KR4d0040_krp_071-bkkpn7}
+  - {type: voice, offset: 1943, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 1945, content: /, id: KR4d0040_krp_071-bkkpn8}
   - {type: punctuation, offset: 1947, content: ), id: KR4d0040_krp_071-bkkpn9}
   - {type: substitution, offset: 1964, original: 断, replacement: 斷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17357}}
@@ -1223,6 +1226,7 @@ markers:
       ', id: KR4d0040_krp_071-bkkkrnewl223}
   - {type: line-break, offset: 3806, content: '', id: KR4d0040_SBCK_071-9b03}
   - {type: punctuation, offset: 3814, content: (, id: KR4d0040_krp_071-bkkpn10}
+  - {type: voice, offset: 3814, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 3816, content: /, id: KR4d0040_krp_071-bkkpn11}
   - {type: punctuation, offset: 3818, content: ), id: KR4d0040_krp_071-bkkpn12}
   - {type: 'kr:newline', offset: 3829, content: '
@@ -1240,6 +1244,7 @@ markers:
       ', id: KR4d0040_krp_071-bkkkrnewl226}
   - {type: line-break, offset: 3869, content: '', id: KR4d0040_SBCK_071-9b06}
   - {type: punctuation, offset: 3885, content: (, id: KR4d0040_krp_071-bkkpn13}
+  - {type: voice, offset: 3885, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 3887, content: /, id: KR4d0040_krp_071-bkkpn14}
   - {type: punctuation, offset: 3889, content: ), id: KR4d0040_krp_071-bkkpn15}
   - {type: 'kr:newline', offset: 3892, content: '
@@ -2375,4 +2380,4 @@ markers:
   - {type: variant, offset: 6881, length: 0, content: '', WYG: 首為邵興宗作皇祐四年問}
   - {type: page-break, offset: 6881, content: '', id: KR4d0040_WYG_075-6a, image: WYG1094/WYG1094-0682a.png}
   back: []
-hash: sha256:906faebb58c7fc3e785a4828014da97a5e7e0d1c3bcdbdc9b84a5b17d84e464c
+hash: sha256:57748cdf4a7c443eabb6d0963f4f83a8699992d5532e96d35e87b080202e0090
